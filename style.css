@@ -126,7 +126,7 @@
     
    }
    article h1{
-       font-size: 10px;
+       font-size: 13px;
        text-align: center;
        font-weight: bold;
        color: rgb(43, 36, 36);
@@ -135,13 +135,13 @@
    #box1{
     width: 230px;
     height:190px ;
-       background-color: rgb(175, 165, 165);
+       background-color: white;
        
    }
    #box2{
     width: 230px;
     height:190px ;
-    background-color: rgb(175, 165, 165);
+    background-color: white;
     
 }
 
@@ -149,20 +149,20 @@
 #box3{
     width: 230px;
     height:190px ;
-    background-color:  rgb(175, 165, 165);
+    background-color:  white;
   
 }
 
 #box4{
     width: 230px;
     height:190px ;
-    background-color:  rgb(175, 165, 165);
+    background-color:  white;
     
 }
 #box5{
  width: 230px;
  height:190px ;
- background-color:  rgb(175, 165, 165);
+ background-color:  white;
  
  
 }
@@ -171,7 +171,7 @@
 #box6{
  width: 230px;
  height:190px ;
- background-color: rgb(175, 165, 165);
+ background-color: white;
 
 
 }
